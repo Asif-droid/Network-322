@@ -1,0 +1,9 @@
+GET / HTTP/1.1
+GET / HTTP/1.1
+HTTP/1.1 200 OK
+ Server: Java HTTP Server: 1.0
+ Date: Fri Jan 06 23:21:44 BDT 2023
+ Content-Type: text/html
+Content-Length: 307
+
+
