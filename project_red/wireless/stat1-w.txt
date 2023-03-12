@@ -1,0 +1,455 @@
+Simulation starting
+Simulation ending
+num_nodes is set 20
+WRED 
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+Simulation starting
+Simulation ending
+num_nodes is set 40
+WRED 
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+Simulation starting
+Simulation ending
+num_nodes is set 60
+WRED 
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+Simulation starting
+Simulation ending
+num_nodes is set 80
+WRED 
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+Simulation starting
+Simulation ending
+num_nodes is set 100
+WRED 
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+Simulation starting
+Simulation ending
+num_nodes is set 40
+WRED 
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+Simulation starting
+Simulation ending
+num_nodes is set 40
+WRED 
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+Simulation starting
+Simulation ending
+num_nodes is set 40
+WRED 
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+Simulation starting
+Simulation ending
+num_nodes is set 40
+WRED 
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+num_nodes is set 40
+Simulation starting
+Simulation ending
+num_nodes is set 40
+WRED 
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+Simulation starting
+Simulation ending
+num_nodes is set 40
+WRED 
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+Simulation starting
+Simulation ending
+num_nodes is set 40
+WRED 
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+Simulation starting
+Simulation ending
+num_nodes is set 40
+WRED 
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+Simulation starting
+Simulation ending
+num_nodes is set 40
+WRED 
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+Simulation starting
+Simulation ending
+num_nodes is set 40
+WRED 
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+Simulation starting
+Simulation ending
+num_nodes is set 40
+WRED 
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 777.8
+Simulation starting
+Simulation ending
+num_nodes is set 40
+WRED 
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 952.7
+Simulation starting
+Simulation ending
+num_nodes is set 40
+WRED 
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 1100.0
+Simulation starting
+Simulation ending
+num_nodes is set 40
+WRED 
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 1229.9
+Simulation starting
+Simulation ending
+num_nodes is set 20
+WRED 
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+Simulation starting
+Simulation ending
+num_nodes is set 40
+WRED 
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+Simulation starting
+Simulation ending
+num_nodes is set 60
+WRED 
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+Simulation starting
+Simulation ending
+num_nodes is set 80
+WRED 
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+Simulation starting
+Simulation ending
+num_nodes is set 100
+WRED 
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+Simulation starting
+Simulation ending
+num_nodes is set 40
+WRED 
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+Simulation starting
+Simulation ending
+num_nodes is set 40
+WRED 
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+Simulation starting
+Simulation ending
+num_nodes is set 40
+WRED 
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+Simulation starting
+Simulation ending
+num_nodes is set 40
+WRED 
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+Simulation starting
+Simulation ending
+num_nodes is set 40
+WRED 
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+Simulation starting
+Simulation ending
+num_nodes is set 40
+WRED 
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+Simulation starting
+Simulation ending
+num_nodes is set 40
+WRED 
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+Simulation starting
+Simulation ending
+num_nodes is set 40
+WRED 
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+Simulation starting
+Simulation ending
+num_nodes is set 40
+WRED 
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+Simulation starting
+Simulation ending
+num_nodes is set 40
+WRED 
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+Simulation starting
+Simulation ending
+num_nodes is set 40
+WRED 
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+Simulation starting
+Simulation ending
+num_nodes is set 40
+WRED 
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 777.8
+Simulation starting
+Simulation ending
+num_nodes is set 40
+WRED 
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 952.7
+Simulation starting
+Simulation ending
+num_nodes is set 40
+WRED 
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 1100.0
+Simulation starting
+Simulation ending
+num_nodes is set 40
+WRED 
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 1229.9
+Simulation starting
+Simulation ending
+num_nodes is set 20
+WRED 
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+Simulation starting
+Simulation ending
+num_nodes is set 40
+WRED 
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+Simulation starting
+Simulation ending
+num_nodes is set 60
+WRED 
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+Simulation starting
+Simulation ending
+num_nodes is set 80
+WRED 
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+Simulation starting
+Simulation ending
+num_nodes is set 100
+WRED 
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+Simulation starting
+Simulation ending
+num_nodes is set 40
+WRED 
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+Simulation starting
+Simulation ending
+num_nodes is set 40
+WRED 
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+Simulation starting
+Simulation ending
+num_nodes is set 40
+WRED 
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+Simulation starting
+Simulation ending
+num_nodes is set 40
+WRED 
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+Simulation starting
+Simulation ending
+num_nodes is set 40
+WRED 
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+Simulation starting
+Simulation ending
+num_nodes is set 40
+WRED 
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+Simulation starting
+Simulation ending
+num_nodes is set 40
+WRED 
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+Simulation starting
+Simulation ending
+num_nodes is set 40
+WRED 
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+Simulation starting
+Simulation ending
+num_nodes is set 40
+WRED 
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+Simulation starting
+Simulation ending
+num_nodes is set 40
+WRED 
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+Simulation starting
+Simulation ending
+num_nodes is set 40
+WRED 
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+Simulation starting
+Simulation ending
+num_nodes is set 40
+WRED 
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 777.8
+Simulation starting
+Simulation ending
+num_nodes is set 40
+WRED 
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 952.7
+Simulation starting
+Simulation ending
+num_nodes is set 40
+WRED 
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 1100.0
+Simulation starting
+Simulation ending
+num_nodes is set 40
+WRED 
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 1229.9
+Simulation starting
+Simulation ending
+num_nodes is set 20
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+Simulation starting
+Simulation ending
+num_nodes is set 40
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+Simulation starting
+Simulation ending
+num_nodes is set 60
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+Simulation starting
+Simulation ending
+num_nodes is set 80
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+Simulation starting
+Simulation ending
+num_nodes is set 100
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+Simulation starting
+Simulation ending
+num_nodes is set 40
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+Simulation starting
+Simulation ending
+num_nodes is set 40
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+Simulation starting
+Simulation ending
+num_nodes is set 40
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+Simulation starting
+Simulation ending
+num_nodes is set 40
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+Simulation starting
+Simulation ending
+num_nodes is set 40
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+Simulation starting
+Simulation ending
+num_nodes is set 40
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+Simulation starting
+Simulation ending
+num_nodes is set 40
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+Simulation starting
+Simulation ending
+num_nodes is set 40
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+Simulation starting
+Simulation ending
+num_nodes is set 40
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+Simulation starting
+Simulation ending
+num_nodes is set 40
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+Simulation starting
+Simulation ending
+num_nodes is set 40
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 550.0
+Simulation starting
+Simulation ending
+num_nodes is set 40
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 777.8
+Simulation starting
+Simulation ending
+num_nodes is set 40
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 952.7
+Simulation starting
+Simulation ending
+num_nodes is set 40
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 1100.0
+Simulation starting
+Simulation ending
+num_nodes is set 40
+channel.cc:sendUp - Calc highestAntennaZ_ and distCST_
+highestAntennaZ_ = 1.5,  distCST_ = 1229.9

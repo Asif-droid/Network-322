@@ -1,0 +1,7 @@
+
+Starting Simulation...
+num_nodes is set 6
+ERROR: No Policy Table entry found for Source 0-Destination -1.
+Policy Table(0):
+
+The policy object doesn't exist, ERROR!!!

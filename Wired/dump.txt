@@ -1,0 +1,53 @@
+e1c
+e2c
+ce1
+ce2
+Policy Table(2):
+Flow (0 to 5): Token Bucket policer, initial code  point 20, CIR 1000000.0 bps, CBS 10000.0 bytes.
+Flow (1 to 5): Token Bucket policer, initial code  point 10, CIR 1000000.0 bps, CBS 10000.0 bytes.
+
+Policer Table:
+Token Bucket policer code point 10 is policed to code point 11.
+Token Bucket policer code point 20 is policed to code point 21.
+
+rio_c
+
+Packets Statistics
+=======================================
+ CP  TotPkts   TxPkts   ldrops   edrops
+ --  -------   ------   ------   ------
+All    19989    12534     6077     1378
+ 10     2508     2390      118        0
+ 11     7486     1384     5885      217
+ 20     2508     2508        0        0
+ 21     7487     6252       74     1161
+
+Packets Statistics
+=======================================
+ CP  TotPkts   TxPkts   ldrops   edrops
+ --  -------   ------   ------   ------
+All    39989    25038    12126     2825
+ 10     5008     4890      118        0
+ 11    14986     2631    11915      440
+ 20     5008     5008        0        0
+ 21    14987    12509       93     2385
+
+Packets Statistics
+=======================================
+ CP  TotPkts   TxPkts   ldrops   edrops
+ --  -------   ------   ------   ------
+All    59989    37537    18175     4277
+ 10     7508     7390      118        0
+ 11    22486     3883    17950      653
+ 20     7508     7508        0        0
+ 21    22487    18756      107     3624
+
+Packets Statistics
+=======================================
+ CP  TotPkts   TxPkts   ldrops   edrops
+ --  -------   ------   ------   ------
+All    79989    50024    24192     5773
+ 10    10008     9890      118        0
+ 11    29986     5132    23948      906
+ 20    10008    10008        0        0
+ 21    29987    24994      126     4867

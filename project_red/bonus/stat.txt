@@ -1,0 +1,217 @@
+flow 1
+
+in mode command
+WRED
+in mode command
+WRED
+wred
+q_w changed
+old=0.000000
+qlen=0
+q_w=0.003000
+new=0.997000
+
+Packets Statistics
+=======================================
+ CP  TotPkts   TxPkts   ldrops   edrops
+ --  -------   ------   ------   ------
+All    19994    19994        0        0
+ 10     9999     9999        0        0
+ 11     9995     9995        0        0
+
+Packets Statistics
+=======================================
+ CP  TotPkts   TxPkts   ldrops   edrops
+ --  -------   ------   ------   ------
+All    19999    19999        0        0
+ 10    10002    10002        0        0
+ 11     9997     9997        0        0
+in mode command
+WRED
+in mode command
+WRED
+wred
+q_w changed
+old=0.000000
+qlen=0
+q_w=0.003000
+new=0.997000
+
+Packets Statistics
+=======================================
+ CP  TotPkts   TxPkts   ldrops   edrops
+ --  -------   ------   ------   ------
+All    19994    19994        0        0
+ 10    19884    19884        0        0
+ 11      110      110        0        0
+
+Packets Statistics
+=======================================
+ CP  TotPkts   TxPkts   ldrops   edrops
+ --  -------   ------   ------   ------
+All    39998    20019    19923       56
+ 10    20011    19909       55       47
+ 11    19987      110    19868        9
+in mode command
+WRED
+in mode command
+WRED
+wred
+q_w changed
+old=0.000000
+qlen=0
+q_w=0.003000
+new=0.997000
+
+Packets Statistics
+=======================================
+ CP  TotPkts   TxPkts   ldrops   edrops
+ --  -------   ------   ------   ------
+All    19994    19994        0        0
+ 10    19910    19910        0        0
+ 11       84       84        0        0
+
+Packets Statistics
+=======================================
+ CP  TotPkts   TxPkts   ldrops   edrops
+ --  -------   ------   ------   ------
+All    59997    20042    39397      558
+ 10    30013    19958     9505      550
+ 11    29984       84    29892        8
+in mode command
+WRED
+in mode command
+WRED
+wred
+q_w changed
+old=0.000000
+qlen=0
+q_w=0.003000
+new=0.997000
+
+Packets Statistics
+=======================================
+ CP  TotPkts   TxPkts   ldrops   edrops
+ --  -------   ------   ------   ------
+All    19994    19994        0        0
+ 10    19918    19918        0        0
+ 11       76       76        0        0
+
+Packets Statistics
+=======================================
+ CP  TotPkts   TxPkts   ldrops   edrops
+ --  -------   ------   ------   ------
+All    79996    20040    59450      506
+ 10    40022    19964    19560      498
+ 11    39974       76    39890        8
+in mode command
+WRED
+in mode command
+WRED
+wred
+q_w changed
+old=0.000000
+qlen=0
+q_w=0.003000
+new=0.997000
+
+Packets Statistics
+=======================================
+ CP  TotPkts   TxPkts   ldrops   edrops
+ --  -------   ------   ------   ------
+All    19994    19994        0        0
+ 10    19921    19921        0        0
+ 11       73       73        0        0
+
+Packets Statistics
+=======================================
+ CP  TotPkts   TxPkts   ldrops   edrops
+ --  -------   ------   ------   ------
+All    99995    20039    79469      487
+ 10    50031    19966    29585      480
+ 11    49964       73    49884        7
+rio_c
+
+Packets Statistics
+=======================================
+ CP  TotPkts   TxPkts   ldrops   edrops
+ --  -------   ------   ------   ------
+All    19994    19994        0        0
+ 10     9999     9999        0        0
+ 11     9995     9995        0        0
+
+Packets Statistics
+=======================================
+ CP  TotPkts   TxPkts   ldrops   edrops
+ --  -------   ------   ------   ------
+All    19999    19999        0        0
+ 10    10002    10002        0        0
+ 11     9997     9997        0        0
+rio_c
+
+Packets Statistics
+=======================================
+ CP  TotPkts   TxPkts   ldrops   edrops
+ --  -------   ------   ------   ------
+All    19994    19994        0        0
+ 10    19842    19842        0        0
+ 11      152      152        0        0
+
+Packets Statistics
+=======================================
+ CP  TotPkts   TxPkts   ldrops   edrops
+ --  -------   ------   ------   ------
+All    39998    20021    19920       57
+ 10    20011    19869       99       43
+ 11    19987      152    19821       14
+rio_c
+
+Packets Statistics
+=======================================
+ CP  TotPkts   TxPkts   ldrops   edrops
+ --  -------   ------   ------   ------
+All    19994    19994        0        0
+ 10    19864    19864        0        0
+ 11      130      130        0        0
+
+Packets Statistics
+=======================================
+ CP  TotPkts   TxPkts   ldrops   edrops
+ --  -------   ------   ------   ------
+All    59997    20040    39457      500
+ 10    30013    19910     9614      489
+ 11    29984      130    29843       11
+rio_c
+
+Packets Statistics
+=======================================
+ CP  TotPkts   TxPkts   ldrops   edrops
+ --  -------   ------   ------   ------
+All    19994    19994        0        0
+ 10    19873    19873        0        0
+ 11      121      121        0        0
+
+Packets Statistics
+=======================================
+ CP  TotPkts   TxPkts   ldrops   edrops
+ --  -------   ------   ------   ------
+All    79996    20039    59478      479
+ 10    40022    19918    19636      468
+ 11    39974      121    39842       11
+rio_c
+
+Packets Statistics
+=======================================
+ CP  TotPkts   TxPkts   ldrops   edrops
+ --  -------   ------   ------   ------
+All    19994    19994        0        0
+ 10    19876    19876        0        0
+ 11      118      118        0        0
+
+Packets Statistics
+=======================================
+ CP  TotPkts   TxPkts   ldrops   edrops
+ --  -------   ------   ------   ------
+All    99995    20039    79490      466
+ 10    50031    19921    29655      455
+ 11    49964      118    49835       11

@@ -1,0 +1,37 @@
+in mode command
+WRED
+in mode command
+WRED
+in mode command
+WRED
+in mode command
+WRED
+Policy Table(2):
+Flow (0 to 5): Token Bucket policer, initial code  point 10, CIR 1000000.0 bps, CBS 3000.0 bytes.
+Flow (1 to 5): Token Bucket policer, initial code  point 10, CIR 1000000.0 bps, CBS 10000.0 bytes.
+
+Policer Table:
+Token Bucket policer code point 10 is policed to code point 11.
+
+wred
+q_w changed
+old=0.000000
+qlen=0
+q_w=0.003000
+new=0.997000
+
+Packets Statistics
+=======================================
+ CP  TotPkts   TxPkts   ldrops   edrops
+ --  -------   ------   ------   ------
+All    19994    19994        0        0
+ 10      366      366        0        0
+ 11    19628    19628        0        0
+
+Packets Statistics
+=======================================
+ CP  TotPkts   TxPkts   ldrops   edrops
+ --  -------   ------   ------   ------
+All    49997    20048    29942        7
+ 10    20011      366    19638        7
+ 11    29986    19682    10304        0
